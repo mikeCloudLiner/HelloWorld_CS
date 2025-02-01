@@ -1,0 +1,9 @@
+# Visual Studio-spezifische Dateien
+.vs/
+
+# Binärdateien und Build-Artefakte
+bin/
+obj/
+
+# Batch-Skripte
+*.bat
