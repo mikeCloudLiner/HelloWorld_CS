@@ -2,6 +2,7 @@
 
 **Beispiel für ein Batch-Skript*+
 
+```
 echo off
 echo # Hello World in C# >> README.md
 (
@@ -25,3 +26,4 @@ git config http.proxy "http://XXX.XXX.XXX.XX:8080"
 git config https.proxy "http://XX.XXX.XXX.XX:8080"
 git push -u origin main
 pause
+```
