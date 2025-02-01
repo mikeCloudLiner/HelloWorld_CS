@@ -1,6 +1,6 @@
 # Hello World in C# 
 
-**Beispiel für ein Batch-Skript*+
+**Beispiel für ein Batch-Skript**
 
 ```
 echo off
